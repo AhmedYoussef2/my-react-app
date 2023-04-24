@@ -1,0 +1,102 @@
+.ban{
+    margin-left: 950px;
+}
+.tank{
+    /* background-image: url('../img/4107964.jpg'); */
+    background-repeat: no-repeat;
+    background-size: 800px 630px;
+    background-color: rgb(168 216 209);
+}
+.text-2xl{
+    margin-left: 230px;
+}
+
+
+.bank{
+    border-radius: 100px;
+    height: 180px;
+    width: 180px;
+    margin-right: 350px;
+    background-color: rgb(117 176 238);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.lag{
+    margin-bottom: 50px;
+}
+.mak{
+    height:200px ;
+    width: 200px;
+    background-color: white;
+    border-radius: 100px;
+    margin-right: 350px;
+    align-items: center;
+}
+.links{
+    margin-top: 30px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    justify-content:center;
+}
+.pon:hover{
+   text-decoration: underline;
+   color: rgb(168 216 209);
+} 
+.ton:hover{
+    text-decoration: underline; 
+    color: rgb(168 216 209);
+ }
+.pon{
+    margin-left: 500px;
+}
+.ton{
+    margin-left: 100px;
+}
+.yon{
+    margin-right: 450px;
+}
+.fle{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+.fl1{
+    margin-left: 256px;
+    
+}
+.f1{
+    margin-left: 190px;
+}
+.j{
+    color: black;
+    padding-left: 200px;
+}
+.d1{
+    height: 80px;
+    width: 80px;
+}
+.d2{
+    margin-top: 20px;
+    height: 40px;
+}
+.fop{
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.jon{
+margin-top: 20px;
+height: 40px;
+width: 40px;
+margin-left: 30px;
+}
+.jak{
+    margin-bottom: 60px;
+}
+.jonp{
+    margin-right: 300px;
+}
+.jun{
+    height: 5px;
+    width: 50px;
+    margin-bottom: 15px;
+}
