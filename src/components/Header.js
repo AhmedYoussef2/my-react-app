@@ -11,11 +11,6 @@ const Header = () => {
 
   const{isActive,setAct}=useState(false);
 
-useEffect(()=>{
-window.addEventListener('scroll',()=>{
-  window.scrollY>60 ? setAct(true):setAct(false);
-});
-});
 
   return (
     <header>
